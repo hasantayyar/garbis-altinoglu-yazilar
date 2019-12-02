@@ -1,0 +1,15 @@
+{
+  "name": "bin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean_article.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^15.2.1",
+    "pdfkit": "^0.10.0"
+  }
+}
