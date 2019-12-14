@@ -43,8 +43,7 @@ Buradaki pdf dosyalar otomatik olarak olusturulmustur.
 - <a href="pdf/usame-bin-ladinin-olumu-neye-ve-kime-hizmet-ediyor?.pdf">Usame Bin Ladin’in “Ölümü” Neye ve Kime Hizmet Ediyor?</a>
 - <a href="pdf/wikileaks-olayi-uzerine-dusunceler.pdf">WikiLeaks Olayı Üzerine Düşünceler</a>
 - <a href="pdf/van-migirdicyanin-yaveleri-agos-yayin-kuruluna-mektup.pdf">Van Mıgırdiçyanın Yaveleri AGOS Yayın Kuruluna Mektup </a>
-- <a href="1-kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı 1</a>
-- <a href="2-kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı 2</a>
-- <a href="3-kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı 3</a>
-- <a href="4-kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı 4</a>
-- <a href="kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı</a>
+- <a href="pdf/1-kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı 1</a>
+- <a href="pdf/2-kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı 2</a>
+- <a href="pdf/3-kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı 3</a>
+- <a href="pdf/4-kurt-ulusal-hareketi-ve-gecmisle-yuzlesmenin-dayanilmaz-agirligi.pdf">Kürt Ulusal Hareketi ve Geçmişle Yüzleşmenin Dayanılmaz Ağırlığı 4</a>
