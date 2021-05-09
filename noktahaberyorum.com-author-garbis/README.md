@@ -1,5 +1,49 @@
-
-noktahaberyorum.com/author/garbis adresinden yedeklendi
-
-- [ ] Yedeklenen html dosyalarini temizle
-- [ ] Temizlenen html dosyalarini pdf'e cevir.
+- <a href="12-eylul-1980-ile-15-temmuz-2016yi-karsilastirmak.pdf">12 Eylül 1980 ile 15 Temmuz 2016’yı karşılaştırmak</a>
+- <a href="15-temmuz-2016-ve-15-mart-2019un-isiginda-hdp.pdf">15 Temmuz 2016 ve 15 Mart 2019’un ışığında HDP</a>
+- <a href="16-nisan-referandumunun-aynasinda-turkiye.pdf">16 Nisan referandumunun aynasında Türkiye</a>
+- <a href="20-yildonumunde-28-subat.pdf">20. Yıldönümünde 28 Şubat</a>
+- <a href="24-haziran-secimlerine-marksist-bakis.pdf">24 Haziran Seçimlerine Marksist Bakış</a>
+- <a href="25-eylul-referandumu-uzerine-notlar-nevran-nevala-yanit.pdf">25 Eylül referandumu üzerine notlar: Nevran Neval’a yanıt</a>
+- <a href="abd-ile-birlikte-yurumek.pdf">ABD ile birlikte yürümek</a>
+- <a href="abd-suriye-ve-irakin-altinlarini-caldi-mi?.pdf">ABD, Suriye ve Irak’ın altınlarını çaldı mı?</a>
+- <a href="adalet-yuruyusu-ve-somut-durumun-somut-analizi.pdf">“Adalet yürüyüşü” ve somut durumun somut analizi</a>
+- <a href="agos-suriye-krizi-ve-islami-terorizm.pdf">AGOS, Suriye krizi ve İslâmî terörizm</a>
+- <a href="anti-semitizm-zirilti-mi-yoksa-tehlikeli-bir-akim-mi?.pdf">Anti-Semitizm: Zırıltı mı yoksa Tehlikeli Bir Akım mı?</a>
+- <a href="aptal-yerine-konmak-ya-da-alaturka-dezenformasyon.pdf"> Aptal yerine konmak ya da alaturka dezenformasyon</a>
+- <a href="atayin-tanikligiyla-izmir-felaketi.pdf">Atay’ın Tanıklığıyla İzmir Felâketi</a>
+- <a href="atilim-teorisyeninin-ittihatcilik-ve-kemalizm-aski.pdf">Atılım Teorisyeninin İttihatçılık ve Kemalizm Aşkı</a>
+- <a href="avrupa-turkiyelesirken.pdf">Avrupa Türkiyeleşirken…</a>
+- <a href="erdogan-rejimi-batidan-kopabilir-mi?.pdf">Erdoğan Rejimi Batı’dan Kopabilir mi?</a>
+- <a href="baydemiri-ve-yasal-kurt-partisini-elestirmek.pdf">Baydemir’i ve Yasal Kürt Partisini Eleştirmek</a>
+- <a href="berbat-bir-filmi-ikinci-kez-seyretmek.pdf">Berbat bir filmi ikinci kez seyretmek</a>
+- <a href="bill-blandin-sovyetler-birligi-ve-ispanya-ic-savasi-adli-makalesine-onsoz.pdf">Bill Bland’ın “Sovyetler Birliği ve İspanya İç Savaşı” adlı makalesine Önsöz</a>
+- <a href="bir-abd-israil-suudi-arabistan-pyd-ypg-baglasmasina-dogru-mu?.pdf">Bir ABD-İsrail-Suudi Arabistan-PYD/ YPG Bağlaşmasına Doğru mu?</a>
+- <a href="bir-ali-kemal-ozcan-anisi.pdf">Bir Ali Kemal (Özcan) Anısı</a>
+- <a href="bir-chp-klasigi-devr-i-sabik-yaratmamak.pdf">Bir CHP klasiği: Devr-i sabık yaratmamak</a>
+- <a href="bir-kez-daha-hdp-ve-nato.pdf"> Bir Kez Daha HDP ve NATO</a>
+- <a href="bir-kez-daha-milliyetci-onyargilar-ve-yanilsamalar-uzerine.pdf">Bir kez daha milliyetçi önyargılar ve yanılsamalar üzerine</a>
+- <a href="bir-kez-daha-suriyeli-siginmacilar-sorunu-uzerine.pdf">Bir Kez Daha Suriyeli Sığınmacılar Sorunu Üzerine</a>
+- <a href="bir-kez-daha-ulusal-sorunumuz-ve-alaturka-enternasyonalizmimiz-uzerine.pdf">Bir Kez Daha Ulusal Sorunumuz ve Alaturka Enternasyonalizmimiz Üzerine</a>
+- <a href="bir-sevan-nisanyan-tartismasi.pdf">Bir Sevan Nişanyan Tartışması</a>
+- <a href="bolton-giderken.pdf">Bolton Giderken…</a>
+- <a href="buyuklere-masallar-chp-bas-dusman-mi?.pdf">Büyüklere masallar: CHP baş düşman mı?</a>
+- <a href="cehalete-ovgu.pdf">Cehalete övgü!</a>
+- <a href="chp-akpnin-suriye-politikasini-elestiriyor-mu?.pdf">CHP AKP’nin Suriye Politikasını Eleştiriyor (mu?)</a>
+- <a href="chp-sokaga-inerken.pdf">CHP sokağa inerken…</a>
+- <a href="chpnin-yeni-yonelimi-uzerine-ondusunceler.pdf">CHP’nin yeni yönelimi üzerine öndüşünceler</a>
+- <a href="cin-deneyiminin-isiginda-gecici-baglasmalar-ve-devrimci-taktik.pdf">Çin deneyiminin ışığında geçici bağlaşmalar ve devrimci taktik </a>
+- <a href="dost-olmasi-gerekenler-arasinda-bir-tartisma.pdf">Dost olması gerekenler arasında bir tartışma</a>
+- <a href="ekimin-guncelligi.pdf">Ekim’in güncelliği</a>
+- <a href="emperyalizm-ve-pro-emperyalizm.pdf">Emperyalizm ve Pro-Emperyalizm</a>
+- <a href="topal-osmanin-lanetli-golgesi-ve-devrimci-taktik.pdf">Topal Osman’ın lanetli gölgesi ve devrimci taktik </a>
+- <a href="hakkini-bayrakla-aramak.pdf">“Hakkını Bayrakla Aramak”</a>
+- <a href="haykonun-hayalleri.pdf">Hayko’nun hayalleri</a>
+- <a href="hdpnin-anayasal-hayalleri-ve-demokrasi-savasimi.pdf">HDP’nin Anayasal Hayalleri ve Demokrasi Savaşımı</a>
+- <a href="manusyan-fransiz-direnisi-ve-trotskizm.pdf">Manuşyan, Fransız direnişi ve Trotskizm</a>
+- <a href="iran-konusunda-karisik-kafalar.pdf">İran konusunda karışık kafalar</a>
+- <a href="iranda-yasananlara-dogru-yaklasmak.pdf">İran’da Yaşananlara Doğru Yaklaşmak</a>
+- <a href="kadin-devrim-ve-sosyalizim.pdf">Kadın, Devrim ve Sosyalizim</a>
+- <a href="karanliklar-prensi-cia-ve-maoistler.pdf">Karanlıklar Prensi, CIA ve Maoistler</a>
+- <a href="karasunun-yazisinin-dusundurdukleri.pdf">Karasu’nun yazısının düşündürdükleri</a>
+- <a href="libyada-akan-kandan-kim-sorumlu?.pdf">Libya’da Akan Kandan Kim Sorumlu?</a>
+- <a href="kirmizi-fularli-kiz-ya-da-alatuka-enternasyonalizm.pdf">“Kırmızı fularlı kız” ya da alatuka enternasyonalizm</a>
